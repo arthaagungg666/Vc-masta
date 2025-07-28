@@ -1,0 +1,11 @@
+{
+  "buildCommand": "",
+  "outputDirectory": ".",
+  "framework": null,
+  "ignoreCommand": "false",
+  "routes": [],
+  "functions": {},
+  "experimental": {
+    "nixpacks": true
+  }
+}
